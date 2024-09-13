@@ -69,6 +69,11 @@ body {
   right: 0;
 }
 
+#clear-cart-btn {
+  display: initial;
+  margin: 10px auto 10px;
+}
+
 .add-to-cart-btn {
   margin: 30px auto 10px;
 }
@@ -86,6 +91,7 @@ body {
   text-align: center;
   font-size: 1.2rem;
   overflow-y: scroll;
+  padding-top: 5px;
 }
 
 .product {
